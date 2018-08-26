@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/controller/DeleteBookController.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/Home.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/AddMainClassification.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/data/MainDao.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/ViewSubClassification.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/ViewMainClassification.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/AddBooks.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/controller/ViewBookController.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/data/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/model/SubClassification.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/model/MainClassification.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/controller/AddBookController.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/data/BookDao.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/controller/SearchBookController.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/src/java/com/library/model/Book.java</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/AddSubClassification.jsp</file>
+            <file>file:/C:/Users/Jerron/Documents/NetBeansProjects/LibraryManagement/web/ViewBook.jsp</file>
+        </group>
+    </open-files>
+</project-private>
